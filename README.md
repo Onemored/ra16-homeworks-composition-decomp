@@ -1,3 +1,5 @@
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-0969da?logo=github)](https://onemored.github.io/ra16-homeworks-composition-decomp/)
+
 Декомпозиция
 ===
 
@@ -16,7 +18,6 @@
 
 ---
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-0969da?logo=github)](https://onemored.github.io/ra16-homeworks-composition-decomp/)
 
 ## Реализация
 
